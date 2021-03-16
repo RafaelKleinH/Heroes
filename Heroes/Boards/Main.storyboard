@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--Root View Controller-->
+        <!--Liga da Justiça-->
         <scene sceneID="0RW-rM-p3r">
             <objects>
                 <tableViewController id="KP8-xB-f1h" customClass="HeroesTableViewController" customModule="Heroes" customModuleProvider="target" sceneMemberID="viewController">
@@ -101,7 +101,7 @@
                             <outlet property="delegate" destination="KP8-xB-f1h" id="icq-yg-HGi"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="UfM-xi-TsF">
+                    <navigationItem key="navigationItem" title="Liga da Justiça" id="UfM-xi-TsF">
                         <barButtonItem key="backBarButtonItem" title="Herois" id="Ixc-DP-Mnx"/>
                     </navigationItem>
                 </tableViewController>
